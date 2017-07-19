@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.googlemap:">
+	<tab>
+		<fieldset>
+			<field name="location" control="textinput" required="true" />
+			<field name="width"    control="spinner"   required="true" step="10" defaultValue="600" />
+			<field name="height"   control="spinner"   required="true" step="10" defaultValue="400" />
+		</fieldset>
+	</tab>
+</form>
