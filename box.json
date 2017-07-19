@@ -1,0 +1,24 @@
+{
+    "name":"PresideCMS Extension: Google maps",
+    "type":"preside-extensions",
+    "version":"1.0.0",
+    "location":"https://github.com/pixl8/preside-ext-googlemaps/archive/v1.0.0.zip",
+    "author":"Pixl8 Interactive",
+    "directory":"application/extensions",
+    "homepage":"https://github.com/pixl8/preside-ext-googlemaps",
+    "documentation":"https://github.com/pixl8/preside-ext-googlemaps",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/pixl8/preside-ext-googlemaps"
+    },
+    "bugs":"https://github.com/pixl8/preside-ext-googlemaps/issues",
+    "slug":"preside-ext-googlemaps",
+    "projectURL":"",
+    "ignore":[
+        ".git/*",
+        ".gitignore",
+        ".travis.yml",
+        ".twgit_features_subject",
+        "*.sh"
+    ]
+}
